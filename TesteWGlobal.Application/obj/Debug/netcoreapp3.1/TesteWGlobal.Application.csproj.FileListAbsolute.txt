@@ -1,0 +1,15 @@
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\bin\Debug\netcoreapp3.1\TesteWGlobal.Application.deps.json
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\bin\Debug\netcoreapp3.1\TesteWGlobal.Application.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\bin\Debug\netcoreapp3.1\TesteWGlobal.Application.pdb
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\bin\Debug\netcoreapp3.1\TesteWGlobal.Domain.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\bin\Debug\netcoreapp3.1\TesteWGlobal.Repository.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\bin\Debug\netcoreapp3.1\TesteWGlobal.Domain.pdb
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\bin\Debug\netcoreapp3.1\TesteWGlobal.Repository.pdb
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\obj\Debug\netcoreapp3.1\TesteWGlobal.Application.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\obj\Debug\netcoreapp3.1\TesteWGlobal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\obj\Debug\netcoreapp3.1\TesteWGlobal.Application.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\obj\Debug\netcoreapp3.1\TesteWGlobal.Application.AssemblyInfo.cs
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\obj\Debug\netcoreapp3.1\TesteWGlobal.Application.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\obj\Debug\netcoreapp3.1\TesteWGlobal.Application.csproj.CopyComplete
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\obj\Debug\netcoreapp3.1\TesteWGlobal.Application.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Application\obj\Debug\netcoreapp3.1\TesteWGlobal.Application.pdb

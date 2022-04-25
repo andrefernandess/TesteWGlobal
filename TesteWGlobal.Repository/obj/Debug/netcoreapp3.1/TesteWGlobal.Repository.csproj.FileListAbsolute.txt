@@ -1,0 +1,16 @@
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\bin\Debug\netcoreapp3.1\TesteWGlobal.Repository.deps.json
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\bin\Debug\netcoreapp3.1\TesteWGlobal.Repository.runtimeconfig.json
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\bin\Debug\netcoreapp3.1\TesteWGlobal.Repository.runtimeconfig.dev.json
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\bin\Debug\netcoreapp3.1\TesteWGlobal.Repository.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\bin\Debug\netcoreapp3.1\TesteWGlobal.Repository.pdb
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\bin\Debug\netcoreapp3.1\TesteWGlobal.Domain.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\bin\Debug\netcoreapp3.1\TesteWGlobal.Domain.pdb
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.AssemblyInfo.cs
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.csproj.CopyComplete
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.pdb
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Repository\obj\Debug\netcoreapp3.1\TesteWGlobal.Repository.genruntimeconfig.cache

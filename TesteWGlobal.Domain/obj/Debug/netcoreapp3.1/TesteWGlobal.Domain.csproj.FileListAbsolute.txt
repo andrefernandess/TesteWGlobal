@@ -1,0 +1,10 @@
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\bin\Debug\netcoreapp3.1\TesteWGlobal.Domain.deps.json
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\bin\Debug\netcoreapp3.1\TesteWGlobal.Domain.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\bin\Debug\netcoreapp3.1\TesteWGlobal.Domain.pdb
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\obj\Debug\netcoreapp3.1\TesteWGlobal.Domain.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\obj\Debug\netcoreapp3.1\TesteWGlobal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\obj\Debug\netcoreapp3.1\TesteWGlobal.Domain.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\obj\Debug\netcoreapp3.1\TesteWGlobal.Domain.AssemblyInfo.cs
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\obj\Debug\netcoreapp3.1\TesteWGlobal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\obj\Debug\netcoreapp3.1\TesteWGlobal.Domain.dll
+C:\Users\Andre\Documents\testes\testeWGlobal\TesteWGlobal\TesteWGlobal.Domain\obj\Debug\netcoreapp3.1\TesteWGlobal.Domain.pdb
